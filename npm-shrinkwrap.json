@@ -1,6 +1,6 @@
 {
   "name": "balena-etcher",
-  "version": "1.5.111",
+  "version": "1.5.112",
   "lockfileVersion": 1,
   "requires": true,
   "dependencies": {
@@ -7357,9 +7357,9 @@
       "dev": true
     },
     "etcher-sdk": {
-      "version": "5.1.6",
-      "resolved": "https://registry.npmjs.org/etcher-sdk/-/etcher-sdk-5.1.6.tgz",
-      "integrity": "sha512-a3OaRywGHKjbRvbAjdrQ64V+6Kvn2pjZzOqw0yud1oFDj9/Ned0cBV5qkHMA759glcS198tdMiVuym4lQme/LQ==",
+      "version": "5.1.7",
+      "resolved": "https://registry.npmjs.org/etcher-sdk/-/etcher-sdk-5.1.7.tgz",
+      "integrity": "sha512-1qN2DkkJmE0h8rEHQkFd04CUzUO48JK/PU1yjM69z5SzlyMWYoPtaKpOFN7K5T3aVx+0tz2bVjnaEiIlTpv9yg==",
       "dev": true,
       "requires": {
         "@balena/udif": "^1.1.0",
